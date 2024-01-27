@@ -1,7 +1,7 @@
 <h1>Fundamentals - Python</h1>
 
 <h2>Description</h2>
-Each module consists of lectures followed up by tests and homeworks after each topic and a "final task".
+Each module consists of lectures followed up by tests and homework after each topic and a "final task".
 <br />
 
 
